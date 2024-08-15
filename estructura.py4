@@ -1,0 +1,3 @@
+#crear un programa que guarde en un diccionario las provincias argentinas
+#con sus respectivas capitales, luego las muestre
+provincias={"cordoba", "jujuy", "salta", "formosa", "tucuman", "chaco", "santiago del estero", "catamarca", "corrientes", "misiones", "santa fe", "la rioja", "santa fe", "entre rios", "san juan", "san luis", "mendoza", "buenos aires", "la pampa", "neuquen", "rio negro", "chubut", "santa cruz", "tierra del fuego"}

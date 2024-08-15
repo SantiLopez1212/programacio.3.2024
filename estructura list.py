@@ -1,0 +1,6 @@
+animales = ("perro")
+print (animales)
+animales.append = ("iguana")
+print (animales)
+animales.appemd = ("conejo")
+print (animales)

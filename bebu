@@ -1,0 +1,17 @@
+prod=[]
+rta="si"
+while rta=="si" or rta=="SI":
+     options=input("selecciona una opcion \n 1.agregar productos a la lista \n 2-mostrar producto en la lista \n 3.salir")
+if opcion=="1":
+     productoragregar=input("ingrese nombre del producto a agregar a la lista: ")
+     prod.append(productoagregar)
+alif opcion=="2":
+    print("los productos en la lista son:\n__________________________________)
+    for p in prod:
+        print(p)
+elif opcion=="3":
+   rta=input("esta seguro de salir del sistema si/no: ")
+   if rta=="no" or rta=="NO" or rta=="No":
+      print("saliendo del sistema")   
+else:
+   print("ingreso una opcion no valida")
